@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DBpediaUsageMining"/>
+	<classpathentry kind="lib" path="D:/Benutzer/Office/.eclipse/org.eclipse.platform_4.2.0_277424159/configuration/org.eclipse.osgi/bundles/2521/1/.cp/lib/scala-library.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
